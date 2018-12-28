@@ -6,4 +6,5 @@
 * [2. 变量的解构赋值](Chapter2/README.md)
     * [重点](Chapter2/IMPORTANT.md) 
 * [3. 字符串的扩展](Chapter3/README.md)
-    
+    * [重点](Chapter3/IMPORTANT.md)
+    * [字符串方法](Chapter3/API.md)
